@@ -1,1 +1,1 @@
-# SwingDynamix
+# swingdynamix
