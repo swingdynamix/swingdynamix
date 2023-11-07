@@ -2,7 +2,7 @@
 
 Welcome to the Swingdynamix GitHub repository! Swingdynamix is an advanced golf club shaft crafted for golf enthusiasts looking to enhance their play with precise swing metrics and feedback. Our product features adjustable weights and advanced sensors that capture the dynamics of the golf swing using an onboard accelerometer. The captured data is then relayed in real-time to a mobile application via Bluetooth connectivity.
 
-This repository hosts the firmware for Swingdynamix v2, including the mobile application software, and the source code for the Swingdynamix website.
+This GitHub account hosts the firmware repository for Swingdynamix v2, including the mobile application software, and the source code for the Swingdynamix website.
 
 ## Firmware (v2)
 The firmware directory contains the source code for the Swingdynamix golf club shaft, specifically tailored for the ATmega328 microcontroller. It handles data acquisition from the accelerometer, data processing, and Bluetooth communication.
