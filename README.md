@@ -20,6 +20,6 @@ The entire source code for the mobile application, as well as our website, will 
 If you need assistance or have any queries, please open an issue in the `issues` tracker, or contact our customer support at [support@swingdynamix.com](mailto:support@swingdynamix.com).
 
 ## License
-Swingdynamix is protected under the [MIT License](LICENSE.md).
+Swingdynamix is protected under the [Creative Commons Licence](LICENSE.md).
 
 Thank you for your interest in Swingdynamix. We're excited to join you on your journey to a better golf experience!
