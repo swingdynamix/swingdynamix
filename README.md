@@ -1,4 +1,4 @@
-# Swingdynamix Golf Club Shaft
+# We are Swingdynamix
 
 Welcome to the Swingdynamix GitHub repository! Swingdynamix is an advanced golf club shaft crafted for golf enthusiasts looking to enhance their play with precise swing metrics and feedback. Our product features adjustable weights and advanced sensors that capture the dynamics of the golf swing using an onboard accelerometer. The captured data is then relayed in real-time to a mobile application via Bluetooth connectivity.
 
